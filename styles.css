@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(40, 40, 40);
+    color: aliceblue;
+}
+li{
+    margin-bottom: 1rem;
+}
+li input{
+    border-color: #0d6efd !important;
+}
+.completed{
+    background-color: darkgrey;
+} 
